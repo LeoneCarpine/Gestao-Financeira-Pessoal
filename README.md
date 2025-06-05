@@ -25,4 +25,6 @@ Banco de dados: SQLite / H2 / MySQL (configurável)
 
 Arquitetura: MVC + DAO + ORM
 
-Integrantes: Felipe Arosti Felisbino (839913), Leone Carpine da Silva (840588), Rafael Sant'ana ()
+Integrantes: Felipe Arosti Felisbino (839913), Leone Carpine da Silva (840588), Rafael Sant'ana (840563)
+
+Repositório antigo: https://github.com/felipearosti/Sistema-de-Gestao-Financeira-Pessoal 
